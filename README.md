@@ -63,7 +63,17 @@ npm run clean
 
 ## Running Tests
 
-To run the tests, use your preferred test runner compatible with the `@btc-vision/unit-test-framework`.
+To run the tests, first build the project using:
+
+```sh
+npm run build
+```
+
+Then, execute the test files directly using Node.js. For example:
+
+```sh
+node ./src/tests/file.js
+```
 
 ## License
 
