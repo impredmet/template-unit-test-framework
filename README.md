@@ -72,7 +72,7 @@ npm run build
 Then, execute the test files directly using Node.js. For example:
 
 ```sh
-node ./src/tests/file.js
+node build/test1.js
 ```
 
 ## License
