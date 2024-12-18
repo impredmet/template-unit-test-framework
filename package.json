@@ -10,7 +10,7 @@
     "clean": "gulp clean"
   },
   "dependencies": {
-    "@btc-vision/unit-test-framework": "^0.0.9"
+    "@btc-vision/unit-test-framework": "^0.0.10"
   },
   "devDependencies": {
     "@eslint/js": "^9.15.0",
